@@ -231,3 +231,10 @@ footer
         font-size: 32px;
     }
 }
+.copy
+{
+    text-align: center;
+    font-size: 1rem;
+    background-color: rgb(10, 165, 43);
+    padding:10px;
+}
